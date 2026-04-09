@@ -13,15 +13,19 @@ A structured monorepo for learning web development from fundamentals to advanced
 | 05 | [Design Patterns](./05-design-patterns/) | Creational, Structural, Behavioral, Real-World | Not Started |
 | 06 | [DSA](./06-dsa/) | Complexity, Data Structures, Algorithms | Not Started |
 | 07 | [LeetCode](./07-leetcode/) | Easy, Medium, Hard | Not Started |
+| 08 | [Git](./08-git/) | Basics, Branching, Remote, Advanced | Not Started |
+| 09 | [CI/CD](./09-cicd/) | CI Fundamentals, GitHub Actions, Deployment, Advanced | Not Started |
 
 ## Suggested Learning Order
 
-```
+
 01-javascript --> 02-typescript --> 03-nextjs --> 04-seo-nextjs
                                        ^
                     05-design-patterns -+  (can start in parallel)
                     06-dsa ---------------  (can start anytime)
                     07-leetcode ----------  (practice alongside 06-dsa)
+                    08-git ---------------  (can start anytime)
+                    09-cicd --------------  (after 08-git basics)
 ```
 
 ## How to Use
