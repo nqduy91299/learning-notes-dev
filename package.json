@@ -1,0 +1,12 @@
+{
+  "name": "learning-notes",
+  "private": true,
+  "workspaces": [],
+  "scripts": {
+    "exercise": "npx tsx"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
+  }
+}
