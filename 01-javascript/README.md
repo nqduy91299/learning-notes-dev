@@ -7,7 +7,7 @@ From fundamentals to advanced concepts.
 ### 01 - Fundamentals
 | # | Topic | Description | Status |
 |---|-------|-------------|--------|
-| 01 | Variables | var, let, const, declarations, temporal dead zone | Not Started |
+| 01 | Variables | var, let, const, declarations, temporal dead zone | Done |
 | 02 | Data Types | Primitives, objects, type coercion, typeof | Not Started |
 | 03 | Operators | Arithmetic, comparison, logical, nullish coalescing, optional chaining | Not Started |
 | 04 | Control Flow | if/else, switch, for, while, for...of, for...in | Not Started |

@@ -1,0 +1,3 @@
+# Ignore exercise files so Copilot doesn't provide inline suggestions
+# while solving exercises. Uses the same glob syntax as .gitignore.
+**/exercises.ts
