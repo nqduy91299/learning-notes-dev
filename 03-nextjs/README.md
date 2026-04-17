@@ -15,31 +15,31 @@ npm run dev
 ### 01 - Fundamentals
 | Topic | Description | Status |
 |-------|-------------|--------|
-| app-router-basics | File-based routing, page.tsx, layout.tsx, loading.tsx, error.tsx | Not Started |
-| routing-and-layouts | Nested layouts, route groups, dynamic routes, catch-all routes | Not Started |
-| server-vs-client | Server Components, Client Components, "use client", when to use which | Not Started |
-| data-fetching | fetch in Server Components, SSR, SSG, ISR, generateStaticParams | Not Started |
+| app-router-basics | File-based routing, page.tsx, layout.tsx, loading.tsx, error.tsx | Done |
+| routing-and-layouts | Nested layouts, route groups, dynamic routes, catch-all routes | Done |
+| server-vs-client | Server Components, Client Components, "use client", when to use which | Done |
+| data-fetching | fetch in Server Components, SSR, SSG, ISR, generateStaticParams | Done |
 
 ### 02 - Intermediate
 | Topic | Description | Status |
 |-------|-------------|--------|
-| api-routes | Route Handlers (GET, POST, etc.), request/response, streaming | Not Started |
-| middleware | next.config middleware, redirects, rewrites, authentication checks | Not Started |
-| authentication | NextAuth.js / Auth.js, session management, protected routes | Not Started |
-| forms-and-mutations | Server Actions, useFormState, useFormStatus, optimistic updates | Not Started |
-| error-handling | error.tsx, not-found.tsx, global error handling, error boundaries | Not Started |
+| api-routes | Route Handlers (GET, POST, etc.), request/response, streaming | Done |
+| middleware | next.config middleware, redirects, rewrites, authentication checks | Done |
+| authentication | NextAuth.js / Auth.js, session management, protected routes | Done |
+| forms-and-mutations | Server Actions, useFormState, useFormStatus, optimistic updates | Done |
+| error-handling | error.tsx, not-found.tsx, global error handling, error boundaries | Done |
 
 ### 03 - Advanced
 | Topic | Description | Status |
 |-------|-------------|--------|
-| streaming-suspense | React Suspense, streaming SSR, loading UI, progressive rendering | Not Started |
-| parallel-routes | @named slots, simultaneous rendering, independent loading | Not Started |
-| intercepting-routes | (.) (..) (...) conventions, modal patterns | Not Started |
-| server-actions | Form handling, mutations, revalidation, error handling | Not Started |
-| caching-revalidation | Request memoization, data cache, full route cache, revalidatePath/Tag | Not Started |
+| streaming-suspense | React Suspense, streaming SSR, loading UI, progressive rendering | Done |
+| parallel-routes | @named slots, simultaneous rendering, independent loading | Done |
+| intercepting-routes | (.) (..) (...) conventions, modal patterns | Done |
+| server-actions | Form handling, mutations, revalidation, error handling | Done |
+| caching-revalidation | Request memoization, data cache, full route cache, revalidatePath/Tag | Done |
 
 ### 04 - Deployment
 | Topic | Description | Status |
 |-------|-------------|--------|
-| build-optimization | Bundle analysis, code splitting, dynamic imports, image optimization | Not Started |
-| vercel-deployment | Vercel config, environment variables, preview deployments, edge runtime | Not Started |
+| build-optimization | Bundle analysis, code splitting, dynamic imports, image optimization | Done |
+| vercel-deployment | Vercel config, environment variables, preview deployments, edge runtime | Done |
